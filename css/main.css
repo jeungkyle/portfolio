@@ -23,11 +23,9 @@ a:active {
 }
 a:hover {
     background-color: red;
-    text-decoration: underline;
 }
 a:link, visited {
     background-color: none;
-    text-decoration: underline;
 }
 h1 {
     font-size: 3em;
