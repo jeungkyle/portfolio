@@ -23,6 +23,7 @@ a:active {
 }
 a:hover {
     background-color: red;
+    text-decoration: underline;
 }
 a:link, visited {
     background-color: none;
