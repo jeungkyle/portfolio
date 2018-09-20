@@ -18,7 +18,15 @@ a {
     text-decoration: none;
     color: #999;
 }
+a:active {
+    background-color: yellow;
+}
 a:hover {
+    background-color: red;
+    text-decoration: underline;
+}
+a:visited, link {
+    background-color: purple;
     text-decoration: underline;
 }
 h1 {
@@ -33,13 +41,7 @@ h3 {
     font-size: 1em;
     font-family:'Verdana';
 }
-p {
-    font-size: 1.5em;
-    font-family:'Verdana';
-    line-height: 1.4em;
-    color: #333;
-}
-li {
+p, li {
     font-size: 1.5em;
     font-family:'Verdana';
     line-height: 1.4em;
@@ -60,10 +62,4 @@ ul.posts {
 ul.posts li {
     font-family:'Verdana';
     list-style: none;
-}
-a:active {
-    background-color: yellow;
-}
-a:hover {
-    background-color: red;
 }
