@@ -1,4 +1,6 @@
 body {
+    font-size: 12pt;
+    font-family:'Arial';
     margin: 60px auto;
     width: 70%;
 }
@@ -24,6 +26,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
+    font-size: 2em;
+    font-family:'Verdana';
+}
+h3 {
     font-size: 1em;
     font-family:'Verdana';
 }
