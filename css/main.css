@@ -3,6 +3,8 @@ body {
     font-family:'Arial';
     margin: 60px auto;
     width: 70%;
+    background-color: lightgrey;
+    color: blue
 }
 nav ul, footer ul {
     font-family:'Arial';
