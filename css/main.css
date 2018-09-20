@@ -25,7 +25,7 @@ a:hover {
     background-color: red;
     text-decoration: underline;
 }
-a:visited, link {
+a:link, visited {
     background-color: purple;
     text-decoration: underline;
 }
