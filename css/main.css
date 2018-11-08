@@ -28,7 +28,7 @@ a:hover {
     text-decoration: underline;
 }
 a:link, visited {
-    background-color: none;
+    background-color: white;
 }
 h1 {
     font-size: 3em;
