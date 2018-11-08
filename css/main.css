@@ -24,11 +24,11 @@ a:active {
     background-color: yellow;
 }
 a:hover {
-    background-color: none;
+    background-color: white;
     text-decoration: underline;
 }
 a:link, visited {
-    background-color: white;
+    background-color: none;
 }
 h1 {
     font-size: 3em;
