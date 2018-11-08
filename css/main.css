@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: white;
 }
 a:active {
     background-color: yellow;
@@ -46,7 +46,7 @@ p, li {
     font-size: 1.5em;
     font-family:'Arial';
     line-height: 1.4em;
-    color: #333;
+    color: white;
 }
 footer {
     font-family:'Arial';
