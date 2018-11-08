@@ -3,7 +3,7 @@ body {
     font-family:'Arial';
     margin: 60px auto;
     width: 70%;
-    background-color: grey;
+    background-color: #3a3a3a;
     color: white
 }
 nav ul, footer ul {
